@@ -1,0 +1,1 @@
+Compile the PAssignOne.java file and run the resultant class file. There may be some warnings, but these are inconsequential and the file still functions as expected.
